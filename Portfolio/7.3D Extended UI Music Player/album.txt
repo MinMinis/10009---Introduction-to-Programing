@@ -1,0 +1,43 @@
+4
+Evovle
+Imagine Dragons
+images/Evolve.jpg
+4
+Believer
+musics/Believer.mp3
+Whatever It Takes
+musics/Whatever It Takes.mp3
+Dancing In The Dark
+musics/Dancing In The Dark.mp3
+Thunder
+musics/Thunder.mp3
+Night Vision
+Imagine Dragons
+images/NightVision.jpg
+4
+Radioactive
+musics/Radioactive.mp3
+Demons
+musics/Demons.mp3
+On Top Of The World
+musics/On Top Of The World.mp3
+It's Time
+musics/It's Time.mp3
+Smoke + Mirrors
+Imagine Dragons
+images/Smoke.jpg
+2
+Friction
+musics/Friction.mp3
+Gold
+musics/Gold.mp3
+Origins
+Imagine Dragons
+images/Origins.png
+3
+Natural
+musics/Natural.mp3
+Bad Liar
+musics/Bad Liar.mp3
+Boomerang
+musics/Boomerang.mp3

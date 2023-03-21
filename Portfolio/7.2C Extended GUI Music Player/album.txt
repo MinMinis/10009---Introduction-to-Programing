@@ -1,0 +1,12 @@
+Imagine Dragons
+Imagine Dragons
+image/dragons.jpg
+4
+Demons
+musics/Demons.mp3
+Enemy
+musics/Enemy.mp3
+Radioactive
+musics/Radioactive.mp3
+Thunder
+musics/Thunder.mp3

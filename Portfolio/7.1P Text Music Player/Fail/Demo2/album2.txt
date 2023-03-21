@@ -1,0 +1,34 @@
+Ed Sheeran
+÷(Delux)
+1
+15
+Eraser
+sounds/00-Eraser.mp3
+Castle on the Hill
+sounds/01-Castle-on-the-Hill.mp3
+Dive
+sounds/02-Dive.mp3
+Shape of You
+sounds/03-Shape-of-You.mp3
+Perfect 
+sounds/04-Perfect.mp3
+Galway Girl
+sounds/05-Galway-Girl.mp3
+Happier
+sounds/06-Happier.mp3
+New Man
+sounds/07-New-Man.mp3
+Hearts Don't Break Around Here 
+sounds/08-Hearts-Don't-Break-Around-Here.mp3
+what DO I Know? 
+sounds/09-What-do-I-Know-?.mp3
+Supermarket Flowers
+sounds/10-Supermarket-Flowers.mp3
+Barcelona
+sounds/11-Barcelona.mp3
+Bibia Be Ye Ye
+sounds/12-Bibia-Be-Ye-Ye.mp3
+Nancy Mulligan
+sounds/13-Nancy-Mulligan.mp3
+Save Myself
+sounds/14-Save-Myself.mp3
